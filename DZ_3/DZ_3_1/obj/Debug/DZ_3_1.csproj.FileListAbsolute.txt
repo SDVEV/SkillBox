@@ -1,0 +1,7 @@
+C:\Repository\SkillBox\DZ_3\DZ_3_1\bin\Debug\DZ_3_1.exe.config
+C:\Repository\SkillBox\DZ_3\DZ_3_1\bin\Debug\DZ_3_1.exe
+C:\Repository\SkillBox\DZ_3\DZ_3_1\bin\Debug\DZ_3_1.pdb
+C:\Repository\SkillBox\DZ_3\DZ_3_1\obj\Debug\DZ_3_1.csprojAssemblyReference.cache
+C:\Repository\SkillBox\DZ_3\DZ_3_1\obj\Debug\DZ_3_1.csproj.CoreCompileInputs.cache
+C:\Repository\SkillBox\DZ_3\DZ_3_1\obj\Debug\DZ_3_1.exe
+C:\Repository\SkillBox\DZ_3\DZ_3_1\obj\Debug\DZ_3_1.pdb
